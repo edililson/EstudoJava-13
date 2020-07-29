@@ -2,7 +2,7 @@ package classe;
 
 public class PrimeiroTrauma {
 	/*
-	 * O desafio é mecher na variavel a que está fora do metodo main
+	 * O desafio ï¿½ mecher na variavel a que estï¿½ fora do metodo main
 	 */
 	
 	 int a = 4;
@@ -14,7 +14,6 @@ public class PrimeiroTrauma {
 		System.out.println(variavel.a);
 		variavel.a = 10;
 		System.out.println(variavel.a);
-		
 		
 	}
 
